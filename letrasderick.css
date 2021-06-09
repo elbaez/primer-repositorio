@@ -1,0 +1,22 @@
+/* CSS files add styling rules to your content */
+
+body {
+  margin: 0em;
+}
+
+.cover {
+  height: 400px;
+  background-image: url(https://cdn.glitch.com/1f0426ce-44fb-48f3-ad4f-b500e8d91e5e%2Frick-morty-.jpg?v=1623133738769);
+  background-size: cover;
+  background-position: center;
+  color:#28A635 ;
+  -webkit-text-stroke: 1.1px #6138EB;
+}
+
+h1 {
+  font-size: 90px;
+}
+
+p {
+  font-size: 50px;
+}
